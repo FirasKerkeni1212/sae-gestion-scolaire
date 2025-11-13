@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696233183181",
+    "project_id": "edufollow-app",
+    "storage_bucket": "edufollow-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696233183181:android:e2733262ffe6d04866a684",
+        "android_client_info": {
+          "package_name": "com.example.coworking_place"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx6rwDkzU82TEklYAv4pOXv24B_VFYiQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

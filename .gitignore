@@ -1,0 +1,43 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Runner.xcworkspace
+ios/Runner.xcworkspace/xcshareddata
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+android/.gradle
+android/app/build
+android/local.properties
+
+# iOS
+ios/.symlinks
+ios/Pods/
+ios/Runner.xcodeproj/xcshareddata
+ios/Runner.xcodeproj/project.xcworkspace
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Base de données
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+*.pem
+*.key
+*.jks
+
+# Logs
+*.log
